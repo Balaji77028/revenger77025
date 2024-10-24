@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  Description:
 I’m currently working on:<br>Full-stack projects integrated with AI, leveraging React.js, Next.js, and backend technologies.<br>I’m looking to collaborate on:<br>Exciting full-stack or AI-driven applications, especially projects with a focus on innovation or real-world solutions.<br>I’m looking for help with:<br>Advanced AI integration into web applications or optimizing backend performance for AI-based systems.<br>I’m currently learning:<br>Next.js, expanding my knowledge of AI tools and their practical application in web development.<br>Ask me about:<br>Full-stack development, AI integration in web apps, or my journey with React and Java.<br>Fun fact:<br>I’m passionate about merging technology and creativity, and I enjoy finding new ways to solve complex problems through code!
 
 
